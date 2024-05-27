@@ -27,12 +27,18 @@ OBS: Estou indo além do projeto inicial e também calculando a DRE em Python. O
 
 Dependências e Instalação:
 Para executar este projeto, você precisará instalar as seguintes dependências:
+  
   pandas-profiling versão 3.3.0: pip install pandas-profiling==3.3.0
+  
   xlsxwriter: pip install xlsxwriter
+  
   pandas versão 2.0.3: pip install pandas==2.0.3
 
 Importação de Bibliotecas:
 O projeto utiliza as seguintes bibliotecas:
+  
   pandas como pd: para manipulação e análise de dados
+  
   numpy como np: para computações numéricas
+  
   babel.dates: para lidar com datas e horários em aplicações Python
