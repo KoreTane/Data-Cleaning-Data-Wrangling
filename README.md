@@ -16,13 +16,15 @@ Tecnologias Utilizadas:
 Python
 Power BI
 
-Entrega do Projeto:
-O projeto foi entregue com a base de dados tratada em Python e toda a engenharia de recursos necessária. Ao executar o arquivo .py, o relatório é atualizado automaticamente.
+Entrega do Projeto
+Um conjunto de dados tratado e refinado em Python, incorporando todos os esforços de engenharia de dados necessários.
+Documentação do projeto exaustiva, detalhando o histórico de tratamento de dados, modificações de (BI), abrangendo todos os aspectos do projeto.
+Ao executar o arquivo .py, o relatório é atualizado automaticamente, garantindo integração e eficiência sem interrupções.
 
 Status do Projeto:
 Concluído.
 
-OBS: Estou indo além do projeto inicial e também calculando a DRE em Python. O plano de contas está pronto e se conecta a um relatório DRE no Excel por meio de VBA, utilizando consultas SQL para recuperar os dados. O relatório é simplificado e inclui análise comparativa temporal.
+OBS: Estou indo além da proposta inicial e também calculando a DRE em Python. O plano de contas está pronto e se conecta a um relatório DRE no Excel por meio de VBA, utilizando consultas SQL para recuperar os dados. O relatório é simplificado e inclui análise comparativa temporal.
 
 
 Dependências e Instalação:
