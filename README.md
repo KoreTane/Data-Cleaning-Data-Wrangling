@@ -25,9 +25,6 @@ Concluído.
 OBS: Estou indo além do projeto inicial e também calculando a DRE em Python. O plano de contas está pronto e se conecta a um relatório DRE no Excel por meio de VBA, utilizando consultas SQL para recuperar os dados. O relatório é simplificado e inclui análise comparativa temporal.
 
 
-
-
-
 Dependências e Instalação:
 Para executar este projeto, você precisará instalar as seguintes dependências:
   pandas-profiling versão 3.3.0: pip install pandas-profiling==3.3.0
